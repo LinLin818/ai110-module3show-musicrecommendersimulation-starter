@@ -30,6 +30,10 @@ Some prompts to answer:
 You can include a simple diagram or bullet list if helpful.
 
 ---
+- I feel like in a real world situation a recommend algorithm works by using repetitive datas that was given
+from the user and use pattern recognition to understand the type of themes the user loved and therefore create an algorithm based on the pattern recognition to continue to feed the same context to the user. My version will prioritize comfort and familiarity -- focusing on what users already love and reinforcing those preferences to deliver recommendations that feel personal
+
+- Some the features my project would have are genre , moood, energy and tempo
 
 ## Getting Started
 
@@ -63,6 +67,24 @@ pytest
 ```
 
 You can add more tests in `tests/test_recommender.py`.
+
+---
+
+## Recommendation Screenshots
+
+The following screenshots show the top 5 recommendations generated for each example profile.
+
+### High-Energy Pop
+
+![High-Energy Pop Recommendations](screenshots/high_energy_pop.png)
+
+### Chill Lofi
+
+![Chill Lofi Recommendations](screenshots/chill_lofi.png)
+
+### Deep Intense Rock
+
+![Deep Intense Rock Recommendations](screenshots/deep_intense_rock.png)
 
 ---
 
